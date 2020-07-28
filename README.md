@@ -34,7 +34,7 @@ En esta prueba estarás creando una API REST para una "tienda de tarjetas colecc
 
 A continuación se describen dos ejemplos de petición que podrían ayudarte a tener una idea más clara de como representar la documentación y como atacar y resolver este problema: 
 
-> Nueva tarjeta
+###### Nueva tarjeta
 > Añade un nuevo item/tarjeta disponible para catálogo de venta e inventario de usuario.
 
 * URL
@@ -84,7 +84,7 @@ POST
 }
 ```
 
-> Inventario
+###### Inventario
 > Retorna todos los items dentro del inventario del usuario que ejecuta esta petición.
 
 * URL
