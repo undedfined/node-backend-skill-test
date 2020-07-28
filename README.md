@@ -64,7 +64,7 @@ POST
         "_id": "XXXXYYYYZZZZ",
         "title": "El Mago Oscuro",
         "rarity": {
-            "_id": "XXXXYYYYZZZZ"
+            "_id": "XXXXYYYYZZZZ",
             "value": "Common",
         },
         "imgUrl": "https://hipertextual.com/files/2015/03/rickroll.jpg",
@@ -104,7 +104,7 @@ GET
         "_id": "XXXXYYYYZZZZ",
         "title": "El Mago Oscuro",
         "rarity": {
-            "_id": "XXXXYYYYZZZZ"
+            "_id": "XXXXYYYYZZZZ",
             "value": "Common",
         },
         "imgUrl": "https://hipertextual.com/files/2015/03/rickroll.jpg",
